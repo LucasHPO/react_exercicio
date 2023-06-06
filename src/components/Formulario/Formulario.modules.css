@@ -1,0 +1,17 @@
+.conatiner {
+    text-align: center;
+    display: block;
+    max-width: 1024px;
+    width: 100%;
+    margin: 0 auto;
+}
+
+table {
+    display: flex;
+    justify-content: center;
+}
+
+.obesidadeGrave {
+    color: red;
+    background-color: grey;
+}
