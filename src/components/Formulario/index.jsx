@@ -1,4 +1,4 @@
-import { useEffect, useState } from "react"
+import { useState } from "react"
 import Styles from './formulario.modules.css'
 
 const Formulario = () => {

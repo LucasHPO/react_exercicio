@@ -10,8 +10,3 @@ table {
     display: flex;
     justify-content: center;
 }
-
-.obesidadeGrave {
-    color: red;
-    background-color: grey;
-}
